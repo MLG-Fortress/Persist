@@ -1,0 +1,6 @@
+name: Persist
+main: com.robomwm.persist.Persist
+version: ${project.version}
+author: RoboMWM
+description: Pseudo-persistent player metadata
+website: https://github.com/MLG-Fortress/Persist
